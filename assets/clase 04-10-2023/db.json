@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Ernes",
+      "last_name": "jejegod",
+      "email": "elne@usene.ceele"
+    },
+    {
+      "first_name": "ricardinho",
+      "last_name": "turbina",
+      "email": "ricky@ricon.cl",
+      "id": 2
+    }
+  ]
+}
